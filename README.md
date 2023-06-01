@@ -1,8 +1,11 @@
 <div align="center"> 
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=BA55D3&height=150&section=header&text=GYEONGDONGBAEK&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-<!--
-[![GYEONGDONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYEONGDONGBAEK&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
+---
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GYEONGDONGBAEK&show_icons=true&theme=tokyonight)
+ <!--
 **GYEONGDONGBAEK/GYEONGDONGBAEK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
