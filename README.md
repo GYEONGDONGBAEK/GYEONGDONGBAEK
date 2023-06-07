@@ -3,7 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=BA55D3&height=150&section=header&text=GYEONGDONGBAEK&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 ---
 
-
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+ 
+---
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GYEONGDONGBAEK&show_icons=true&theme=tokyonight)
  <!--
 **GYEONGDONGBAEK/GYEONGDONGBAEK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
